@@ -6,3 +6,5 @@ tomato
 melon
 orange
 
+mango
+좋아
